@@ -1,7 +1,8 @@
-Date:09/25
-Project Title: Project 3:Tables
+Date:10/2
+Project Title: CSS Classes
 
-Date:09/18
-Project Title:Project 4:Internal Style Sheet
+Date:10/2
+Project Title:Advanced Table
 
 Emma Gu Block2
+Mrs.Eloe, i used the male/female singer instead of the genres, because my songs are all pop music. Thank you!
