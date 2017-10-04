@@ -3,10 +3,30 @@
   
 <head> 
 <title>CSS Table Styling</title>
+<style type="text/css">
+.glossary {
+width: 650px;
+}
+.collapse {
+border-collapse: collapse;
+}
+ th {
+border: 2px solid;
+}
+td {
+border: 2px dashed;
+padding: 5px;
+} 
+.style1 {
+color: red;
+}
+  .red
+  {color:red}
+</style>
 </head>
 
 <body>
-  <table>
+  <table class="glossary collapse" border="1">
   <caption>Five Day Forecast</caption>
   <tr>
      <th colspan="1">Monday</th>
@@ -16,7 +36,7 @@
      <th colspan="1">Friday</th>
   </tr>
   
-  <tr>
+  <p class="style1 red">
     <td>68</td>
     <td>65</td>
     <td>63</td>
