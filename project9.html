@@ -3,6 +3,8 @@
   
 <head> 
 <title>CSS Table Styling</title>
+<style>
+    h1{front-family:Verdana;color:green;text-align:center}
 <style type="text/css">
 .glossary {
 width: 650px;
@@ -11,23 +13,23 @@ width: 650px;
 border-collapse: collapse;
 }
  th {
-border: 2px solid;
+border: 2px solid black;
 }
 td {
-border: 2px dashed;
+border: 2px dashed black;
 padding: 5px;
 } 
-.style1 {
-color: red;
-}
   .red
   {color:red}
+  .blue
+  {color:blue}
 </style>
 </head>
 
 <body>
   <table class="glossary collapse" border="1">
-  <caption>Five Day Forecast</caption>
+   <h1>Five Day Forecast</h1>
+  
   <tr>
      <th colspan="1">Monday</th>
      <th colspan="1">Tuesday</th>
@@ -36,7 +38,7 @@ color: red;
      <th colspan="1">Friday</th>
   </tr>
   
-  <p class="style1 red">
+  <tr class="red">
     <td>68</td>
     <td>65</td>
     <td>63</td>
@@ -44,7 +46,7 @@ color: red;
     <td>50</td>
   </tr>
   
-  <tr>
+  <tr class="blue">
     <td>58</td>
     <td>52</td>
     <td>53</td>
