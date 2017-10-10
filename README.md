@@ -1,8 +1,11 @@
-Date:10/2
-Project Title: CSS Classes
+Date:10/10
+Project Title: CSS Table Styling
 
-Date:10/2
-Project Title:Advanced Table
+Date:10/10
+Project Title:CSS Box Model
+
+Date:10/10
+Project Title:CSS Layout
 
 Emma Gu Block2
-Mrs.Eloe, i used the male/female singer instead of the genres, because my songs are all pop music. Thank you!
+
