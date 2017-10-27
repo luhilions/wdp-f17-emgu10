@@ -1,11 +1,10 @@
-Date:10/10
-Project Title: CSS Table Styling
+Date:10/27
+Project Title: More CSS
 
-Date:10/10
-Project Title:CSS Box Model
+Date:10/27
+Project Title:Special Characters
 
-Date:10/10
-Project Title:CSS Layout
+Mrs. Eloe: About project12, my background picture is a gray picture, my background is light yellow. I don't want to confuse you when you see the gray. Thank you!
 
 Emma Gu Block2
 
