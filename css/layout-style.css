@@ -46,7 +46,7 @@
        background-color:lightyellow;
     }
       
-      a:link {color:blue;}
+      a:link { color: blue; font-weight: bold;}
       a:visited {color:green;}
       /*This is a cute comment.*/
       a:hover {color:organge; text-decoration: none;}
