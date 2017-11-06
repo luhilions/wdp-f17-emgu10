@@ -1,10 +1,12 @@
-Date:10/27
-Project Title: More CSS
+Date:11/04
+Project Title: Web Colors
 
-Date:10/27
-Project Title:Special Characters
+Date:11/04
+Project Title:Fonts
 
-Mrs. Eloe: About project12, my background picture is a gray picture, my background is light yellow. I don't want to confuse you when you see the gray. Thank you!
+Date:11/04
+Project Title: Validation
 
-Emma Gu Block2
+
+Emma Gu Block4
 
