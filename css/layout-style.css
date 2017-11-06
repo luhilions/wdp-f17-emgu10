@@ -44,5 +44,11 @@
   body {
      background-image: url('../images/back.jpg');
 }
+ 
+       a:link { color: blue; font-weight: bold;}
+      a:visited {color:green;}
+      /*This is a cute comment.*/
+      a:hover {color:organge; text-decoration: none;}
+      a:active{color:red;}
 </style>
 
