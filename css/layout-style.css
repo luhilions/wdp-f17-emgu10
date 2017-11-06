@@ -41,14 +41,8 @@
        clear:both;
    }
    
-   body{
-       background-image: url('images/back.jpg');
-       background-color:lightyellow;
-    }
-      
-      a:link { color: blue; font-weight: bold;}
-      a:visited {color:green;}
-      /*This is a cute comment.*/
-      a:hover {color:organge; text-decoration: none;}
-      a:active{color:red;}
+  body {
+     background-image: url('../images/back.jpg');
+}
+
 
