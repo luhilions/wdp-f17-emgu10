@@ -1,4 +1,4 @@
-<style> 
+
   
   .header{
         width:100%;
@@ -51,5 +51,4 @@
       /*This is a cute comment.*/
       a:hover {color:organge; text-decoration: none;}
       a:active{color:red;}
-      
-</style>
+
