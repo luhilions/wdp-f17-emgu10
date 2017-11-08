@@ -10,29 +10,29 @@
 
 .jackclubs {
  position: absolute;
- top: 40px;
- left:80px;
+ top: 85px;
+ left:110px;
   background-image: url('../img/jackclubs.jpg');
- z-index: 1;
+ z-index: 4;
 }
 
 .kingspades {
  position: absolute;
- top: 50px;
+ top: 65px;
  left: 110px;
- z-index: 1;
+ z-index: 2;
 }
 
 .queenhearts {
  position: absolute;
- top: 45px;
+ top: 75px;
  left: 110px;
- z-index: 1;
+ z-index: 3;
 }
 
 .tendiamonds {
  position: absolute;
- top: 40px;
+ top: 95px;
  left: 110px;
  z-index: 1;
 }
