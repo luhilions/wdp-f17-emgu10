@@ -20,6 +20,7 @@
  position: absolute;
  top: 65px;
  left: 110px;
+   background-image: url('../img/kingspades.jpg');
  z-index: 2;
 }
 
@@ -27,6 +28,7 @@
  position: absolute;
  top: 75px;
  left: 110px;
+   background-image: url('../img/queenhearts.jpg');
  z-index: 3;
 }
 
@@ -34,6 +36,7 @@
  position: absolute;
  top: 95px;
  left: 110px;
+ background-image: url('../img/tendimonds.jpg');
  z-index: 1;
 }
 
