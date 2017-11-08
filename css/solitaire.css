@@ -11,7 +11,7 @@
 .jackclubs {
  position: absolute;
  top: 40px;
- left: 110px;
+ left:80px;
   background-image: url('../img/jackclubs.jpg');
  z-index: 1;
 }
