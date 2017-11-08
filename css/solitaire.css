@@ -8,12 +8,41 @@
  left: 25px;
 }
 
-.back {
+.jackclubs {
  position: absolute;
  top: 40px;
  left: 110px;
  z-index: 1;
 }
+
+.kingspades {
+ position: absolute;
+ top: 50px;
+ left: 110px;
+ z-index: 1;
+}
+
+.queenhearts {
+ position: absolute;
+ top: 45px;
+ left: 110px;
+ z-index: 1;
+}
+
+.tendiamonds {
+ position: absolute;
+ top: 40px;
+ left: 110px;
+ z-index: 1;
+}
+
+.back {
+ position: absolute;
+ top: 55px;
+ left: 110px;
+ z-index: 1;
+}
+
 
 .gradient {
  background-image: url('../img/gradient.jpg');
