@@ -21,13 +21,14 @@
  background-color: gray;
 }
 
-.1 {
+.a {
 height: 100px;
 width: 100px;
+background-image: url('../img/card.png');
 background-color: green;
 }
 
-.2 {
+.b {
 height: 100px;
 width: 100px;
 background-color: blue;
