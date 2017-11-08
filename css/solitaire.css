@@ -12,6 +12,7 @@
  position: absolute;
  top: 40px;
  left: 110px;
+  background-image: url('../img/jackclubs.jpg');
  z-index: 1;
 }
 
@@ -49,20 +50,3 @@
  background-repeat: repeat-x;
  background-color: gray;
 }
-
-.a {
-height: 80px;
-width: 100px;
-background-image: url('../img/jackclubs.png');
-background-color: green;
-}
-
-.b {
-height: 100px;
-width: 100px;
-background-image: url('../img/jackclubs.png');
-background-color: blue;
-position: relative;
-top: -25px;
-}
-
