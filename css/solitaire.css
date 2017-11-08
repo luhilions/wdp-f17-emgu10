@@ -37,16 +37,16 @@
  top: 95px;
  left: 110px;
  background-image: url('../img/tendiamonds.jpg');
- z-index: 1;
+ z-index: 5;
 }
 
-.back {
+.card {
  position: absolute;
- top:35px;
+ top: 20px;
  left: 110px;
+ background-image: url('../img/card.jpg');
  z-index: 1;
 }
-
 
 .gradient {
  background-image: url('../img/gradient.jpg');
