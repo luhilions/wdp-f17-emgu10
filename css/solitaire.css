@@ -53,3 +53,8 @@
  background-repeat: repeat-x;
  background-color: gray;
 }
+
+body{
+       background-image: url('images/gradient.jpg');
+       background-color:lightyellow;
+    }
