@@ -21,7 +21,7 @@
 .kingspades {
  position: absolute;
  top:65px;
- left: 130px;
+ left: 500px;
    background-image: url('../img/kingspades.jpg');
  z-index: 2;
   text-aligin:middle;
