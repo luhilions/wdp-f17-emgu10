@@ -12,7 +12,7 @@
 .jackclubs {
  position: absolute;
  top: 95px;
- left:684px;
+ left:683px;
   background-image: url('../img/jackclubs.jpg');
  z-index: 4;
   text-aligin:middle;
@@ -21,7 +21,7 @@
 .kingspades {
  position: absolute;
  top:65px;
- left: 684px;
+ left:683;
    background-image: url('../img/kingspades.jpg');
  z-index: 2;
   text-aligin:middle;
@@ -30,7 +30,7 @@
 .queenhearts {
  position: absolute;
  top: 80px;
- left: 684px;
+ left: 683px;
    background-image: url('../img/queenhearts.jpg');
  z-index: 3;
   text-aligin:middle;
@@ -48,7 +48,7 @@
 .card {
  position: absolute;
  top: 50px;
- left: 130px;
+ left: 683px;
  background-image: url('../img/card.jpg');
  z-index: 1;
   text-aligin:middle;
