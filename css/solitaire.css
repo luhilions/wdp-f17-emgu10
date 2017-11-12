@@ -50,6 +50,6 @@
 
 
 body{
-       background-image: url('images/gradient.jpg');
+       background-image: url('../images/gradient.jpg');
        background-color:lightyellow;
     }
