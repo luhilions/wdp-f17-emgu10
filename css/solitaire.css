@@ -43,7 +43,7 @@
 .card {
  position: absolute;
  top: 40px;
- left: 110px;
+ left: 120px;
  background-image: url('../img/card.jpg');
  z-index: 1;
 }
