@@ -1,5 +1,4 @@
 
-  <style>
     .header{
         width:100%;
         height:100px;
@@ -50,5 +49,4 @@
       /*This is a cute comment.*/
       a:hover {color:orange; text-decoration: none;}
       a:active{color:red;}
-</style>
 
