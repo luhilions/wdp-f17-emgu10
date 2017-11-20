@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>Web Form</title>
+
+  <style>
+ 
+ .feedback{
+    width:500px;
+    font-family:Tahoma;
+      }
+ .button{
+     text-align:center;
+     }
+
+ </style>
+  </head>
+  
+ <form class="feedback">
+ 
+<body bgcolor="#E6E6FA">
+ <form method="post" action="process.php">
+<fieldset>
+
+<legend>Give Us Your Feedback</legend>
+<br>Full Name:</br>
+<br><input type="text" size="40" name="firstname" /><br />
+<br>
+Year:<br />
+<br><input type="radio" name="eye" value="brown" />Freshman<br />
+<input type="radio" name="eye" value="blue" />Sophmore<br />
+<input type="radio" name="eye" value="green" />Junior<br />
+<input type="radio" name="eye" value="other" />Senior<br />
+<br>
+Activities:<br />
+<br><input type="checkbox" name="pets" value="dog" />Sports<br />
+<input type="checkbox" name="pets" value="cat" />Music<br />
+<input type="checkbox" name="pets" value="hamster" />Theater<br />
+<input type="checkbox" name="pets" value="fish" />Other<br />
+<br>
+Quarter:<br />
+<br><select name="language"></br>
+<option value="spanish">Fall</option>
+<option value="french">Spring</option>
+<option value="japanese">Summer</option>
+<option value="arabic">Winter</option>
+</select>
+<br></br>
+
+Comments:
+<br><textarea name="more" rows="8" cols="30">
+Enter your feedback here.
+</textarea>
+<div>
+<center><br><input type="submit" value="Click here to submit" /></br></center>
+</fieldset>
+
+</body>
+
+</form>
+</html>
+
